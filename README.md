@@ -7,3 +7,4 @@ Esse repositório contém links e conteudos que acho interessante a leitura e gu
 * [Rodando mean + docker na aws](https://blog.codeship.com/running-mean-web-application-docker-containers-aws/)
 * [Workflow básico de mean com docker](http://www.ericluwj.com/2015/10/20/a-basic-workflow-for-docker-compose-with-mean-stack.html)
 * [Tecnicas de auth com angular](https://medium.com/opinionated-angularjs/techniques-for-authentication-in-angularjs-applications-7bbf0346acec#.i4h7v83v0)
+* [Regex online para testar, suporta varias linguagens](https://regex101.com/)
